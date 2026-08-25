@@ -1,0 +1,6 @@
+{
+  "name": "Asignador de Proyectos de Investigación de Clase",
+  "description": "Aplicación educativa para el aula que asigna de forma única 50 temas científicos, generando una guía de investigación personalizada con el método científico, ciudadanía digital crítica y 25 preguntas adaptadas mediante IA.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
